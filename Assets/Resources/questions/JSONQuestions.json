@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Какая страна самая большая в мире?",
+        "answers": [
+            {
+                "text": "Россия",
+                "correct": true
+            },
+            {
+                "text": "США",
+                "correct": false
+            },
+            {
+                "text": "Китай",
+                "correct": false
+            },
+            {
+                "text": "Канада",
+                "correct": false
+            }
+        ],
+        "background": "backgrounds/russia.jpg"
+    },
+    {
+        "question": "Какой металл самый тяжелый?",
+        "answers": [
+            {
+                "text": "Золото",
+                "correct": false
+            },
+            {
+                "text": "Платина",
+                "correct": false
+            },
+            {
+                "text": "Олово",
+                "correct": false
+            },
+            {
+                "text": "Осмий",
+                "correct": true
+            }
+        ],
+        "background": "backgrounds/osmium.jpg"
+    },
+    {
+        "question": "Ответы: (2)",
+        "answers": [
+            {
+                "text": "1",
+                "correct": false
+            },
+            {
+                "text": "2",
+                "correct": true
+            }
+        ],
+        "background": "backgrounds/1.jpg"
+    },
+    {
+        "question": "Ответы: (1,2,4)",
+        "answers": [
+            {
+                "text": "1",
+                "correct": true
+            },
+            {
+                "text": "2",
+                "correct": true
+            },
+            {
+                "text": "3",
+                "correct": false
+            },
+            {
+                "text": "4",
+                "correct": true
+            }
+        ],
+        "background": "backgrounds/2.jpg"
+    },
+    {
+        "question": "Ответы: (нет верных)",
+        "answers": [
+            {
+                "text": "1",
+                "correct": false
+            },
+            {
+                "text": "2",
+                "correct": false
+            },
+            {
+                "text": "3",
+                "correct": false
+            },
+            {
+                "text": "4",
+                "correct": false
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "6",
+                "correct": false
+            }
+        ],
+        "background": "backgrounds/3.jpg"
+    },
+    {
+        "question": "Ответы: (1,4,11)",
+        "answers": [
+            {
+                "text": "1",
+                "correct": true
+            },
+            {
+                "text": "2",
+                "correct": false
+            },
+            {
+                "text": "3",
+                "correct": false
+            },
+            {
+                "text": "4",
+                "correct": true
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "6",
+                "correct": false
+            },
+            {
+                "text": "7",
+                "correct": false
+            },
+            {
+                "text": "8",
+                "correct": false
+            },
+            {
+                "text": "9",
+                "correct": false
+            },
+            {
+                "text": "10",
+                "correct": false
+            },
+            {
+                "text": "11",
+                "correct": true
+            }
+        ],
+        "background": "backgrounds/4.jpg"
+    }
+]
